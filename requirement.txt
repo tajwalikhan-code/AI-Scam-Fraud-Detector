@@ -1,0 +1,13 @@
+gradio>=4.44.0
+transformers
+sentence-transformers
+faiss-cpu
+groq>=0.11.0
+pypdf
+numpy
+scikit-learn
+matplotlib
+SpeechRecognition
+pydub
+pytesseract
+Pillow
